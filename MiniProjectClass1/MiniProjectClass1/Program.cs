@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MiniProjectClass1
 {
-    class Program
+    class Program //Jedrzej sucks
     {
         static void Main(string[] args)
         {
