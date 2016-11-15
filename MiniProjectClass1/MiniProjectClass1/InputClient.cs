@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MiniProjectClass1
 {
-    class Class1
+    class InputClient
     {
     }
 }
