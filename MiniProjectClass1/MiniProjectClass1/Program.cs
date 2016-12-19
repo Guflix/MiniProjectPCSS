@@ -10,6 +10,7 @@ namespace MiniProjectClass1
     {
         static void Main(string[] args)
         {
+            //He still sucks
         }
     }
 }
